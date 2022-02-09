@@ -56,3 +56,13 @@ Advantages and Disadvantages of Agile
 Advantages: The Agile Model decreases the amount of time to yield individual system features. It also calls for a lot of communication and continuous feedback from the customer/user that can provide clear direction for the project.
 Disadvantages: The Agile method can potentially veer-off track as it relies on end-user interaction that may or may not be clearly expressed. Documentation is also minimal for an Agile software development strategy and requires a well-versed, cross-functional team.
 
+
+
+SOFTWARE CONSTRUCTION HISTORY
+	The history of Software Construction began in 1945 and its first era between 1945 and 1965 which was majorly characterized by Margaret Hamilton 
+naming it as discipline as a way of making it seem genuine. However, between 1965 and 1985 a period that has since been named as the Software Crisis which was 
+known to be caused by expensive projects and yet the projects would still be delivered late. The late nineties
+ of 1985 to 1989 was pivotal to solving the crisis primarily because maintaining software was more expensive than its construction.
+	However, towards the end of the century in 1990 towards 1999 and the rise of the internet and the ability to share information i
+nternationally brought about a new age in the software construction story and this continued to develop from 2000 through to 2015 especially 
+with the demand for cheaper software especially for smaller companies and this has led to easier software construction processes seen today. (Wikipedia)

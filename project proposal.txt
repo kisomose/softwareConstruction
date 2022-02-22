@@ -1,0 +1,25 @@
+tittle
+EMPLOYEE MANAGEMENT WEB-SYSTEM
+BACKGROUND
+Human resources or employee manager have issues with allows managing the employee activities,
+arrival time and departure time,as well as knowing whether the assigned task is completed and
+which employee is free currently and so on. 
+So, the system am to come up will be assisting both the human resource and the employees to 
+know when they have checked in for work,checked out of work, flowing up with the employee is 
+completed the assigned task and he/ she is ready for another work as so on.
+
+THE AIM OF THE PROJECT IS TO :-
+Am employee management system is to be a web based system which will be convenient for both the
+Human Resource Manager/ADMIN and employees to easily 
+	-check In, 
+	-checkout, 
+	-schedule, 
+	-assign work and others.
+THE ADMIN 
+	-logs in
+	-views all the accivities for all the users
+	-schedules work for all the users
+	-confirms the empoyee with finished work
+	-registers new employees
+	-resets passwords for the users
+	-can draw reports from the
